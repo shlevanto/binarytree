@@ -1,16 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package Tira0604_Binaarihakupuu;
 
-/**
- *
- * @author levantsi
- */
-
-// tehtävän 6.3. toteutus ja testaaminen
+// tässä puussa voi lisätä suoraan oikeaan tai vasempaan 
 public class toinenPuu {
     private Solmu juuri;
     

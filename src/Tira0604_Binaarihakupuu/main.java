@@ -3,10 +3,6 @@ package Tira0604_Binaarihakupuu;
 import java.util.ArrayList;
 import java.util.Collections;
 
-/**
- *
- * @author levantsi
- */
 public class main {
 
     public static void main(String[] args) {

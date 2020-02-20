@@ -1,8 +1,5 @@
 package Tira0604_Binaarihakupuu;
 
-/**
- * @author levantsi
- */
 
 public class Solmu {
     private int avain;

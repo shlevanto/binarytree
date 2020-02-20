@@ -1,9 +1,5 @@
 package Tira0604_Binaarihakupuu;
 
-/**
- *
- * @author levantsi
- */
 
 public class Puu {
     private Solmu juuri;
@@ -73,7 +69,7 @@ public class Puu {
     }
 
     
-    // testaamista varten tehty tulostustoiminnot
+    // tulostustoiminnot
     
     public void tulostaEsijarjestys(Solmu solmu) {
         if (solmu == null) {
